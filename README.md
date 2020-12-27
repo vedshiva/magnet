@@ -1,1 +1,2 @@
-# magnet
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
